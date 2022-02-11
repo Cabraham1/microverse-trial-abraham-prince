@@ -16,6 +16,8 @@ body{
     background-color: lightgreen;
   }
 }
-#navbar {
-position: fixed;
+
+#navbar{
+  position: fixed;
+  top: 0;
 }
