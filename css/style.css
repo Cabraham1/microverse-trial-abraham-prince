@@ -16,3 +16,6 @@ body{
     background-color: lightgreen;
   }
 }
+#navbar {
+position: fixed;
+}
